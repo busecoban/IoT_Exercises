@@ -20,7 +20,11 @@ void loop() {
 
 ## 2-Arduino and Led Blink
 
+
 ![IMG_0795](https://github.com/busecoban/IoT_Exercises/assets/73944611/bb7d4aec-2fe5-45cb-bb73-2abb5b074e21)
+
+<img width="857" alt="Screenshot 2024-04-19 at 05 51 02" src="https://github.com/busecoban/IoT_Exercises/assets/73944611/85a89372-fbbc-4f42-8ee4-4611b3771e61">
+
 
 ```cpp
 #define led 2
@@ -45,8 +49,8 @@ void loop()
 
 ![IMG_0800](https://github.com/busecoban/IoT_Exercises/assets/73944611/624f0643-0c9c-4de0-a07f-37e1be9e69e0)
 
+<img width="858" alt="Screenshot 2024-04-19 at 05 58 16" src="https://github.com/busecoban/IoT_Exercises/assets/73944611/60dd686b-30c8-441d-8aaa-4174089b54f3">
 
-![image](https://github.com/busecoban/IoT_Exercises/assets/73944611/7f0ce2e1-24d4-4322-bb60-904e804267b0)
 
 ```cpp
 #define led1 2
